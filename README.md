@@ -54,11 +54,11 @@ Congratulations! You have successfully created your first RPA bot. This will sav
 
 ---
 
-#🔗 References
+# References
 
 - [UiPath Studio Documentation](https://docs.uipath.com/)
 - [RPA Consulting Services](https://www.saasvaap.com/rpa-consulting-services)
 
 ---
-#📬 Contact
+# Contact
 For any questions or custom RPA solutions, feel free to reach out to RPA Consulting Services.
